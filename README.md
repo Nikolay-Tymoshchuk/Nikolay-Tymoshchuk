@@ -67,5 +67,5 @@ const niko = {
 <p align="center">
   <img src="./footer.svg" width="100%" alt="Thank you for visiting" />
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=Nikolay-Tymoshchuk&style=flat-square&color=2f7d4f&label=VISITORS%20SERVED" />
+  <img src="https://komarev.com/ghpvc/?username=Mykola-Tymoshchuk&style=flat-square&color=2f7d4f&label=VISITORS%20SERVED" />
 </p>
