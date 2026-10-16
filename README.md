@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Nikolay Tymoshchuk — Shopify apps & storefront engineering" />
+  <img src="./header.svg" width="100%" alt="Mykola Tymoshchuk — Shopify apps & storefront engineering" />
 </p>
 
 <p align="center">
@@ -42,12 +42,12 @@ const niko = {
 ### `> git log --stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nikolay-Tymoshchuk&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2f7d4f&text_color=211c17&icon_color=2f7d4f&ring_color=2f7d4f&include_all_commits=true&custom_title=Account%20summary" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Nikolay-Tymoshchuk&hide_border=true&background=f7f2e8&ring=2f7d4f&fire=2f7d4f&currStreakLabel=2f7d4f&sideLabels=211c17&currStreakNum=211c17&sideNums=211c17&dates=7a7064&stroke=cfc4b2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mykola-Tymoshchuk&show_icons=true&hide_border=true&bg_color=f7f2e8&title_color=2f7d4f&text_color=211c17&icon_color=2f7d4f&ring_color=2f7d4f&include_all_commits=true&custom_title=Account%20summary" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Mykola-Tymoshchuk&hide_border=true&background=f7f2e8&ring=2f7d4f&fire=2f7d4f&currStreakLabel=2f7d4f&sideLabels=211c17&currStreakNum=211c17&sideNums=211c17&dates=7a7064&stroke=cfc4b2" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolay-Tymoshchuk&bg_color=f7f2e8&color=211c17&line=2f7d4f&point=211c17&area=true&area_color=2f7d4f&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mykola-Tymoshchuk&bg_color=f7f2e8&color=211c17&line=2f7d4f&point=211c17&area=true&area_color=2f7d4f&hide_border=true&custom_title=Commits%20over%20the%20last%2031%20days" />
 </p>
 
 <p align="center">
